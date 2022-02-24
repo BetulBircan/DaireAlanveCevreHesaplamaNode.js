@@ -60,7 +60,7 @@ circleCircumference(4)
 
 ![modüleryapıdaire1](https://user-images.githubusercontent.com/86554799/155549920-0bbdcbef-6c64-4ee9-a18b-5e16665a3def.jpg)
 
-**2. Yöntem Sonucu **
+**2. Yöntem Sonucu**
 
 ![modüleryapıdaire2](https://user-images.githubusercontent.com/86554799/155549948-24871187-8bfa-442d-a5d5-065af0dae16e.jpg)
 
