@@ -10,3 +10,10 @@ function circleArea(yaricap) {
     let alan = piSayisi*yaricap*yaricap
     console.log(`Yarıçapı ${yaricap} Olan Dairenin Alanı: ${alan}`)
 }
+
+//Dairenin Çevresi Hesaplaması İçin Oluşturulan Fonksiyon
+function circleCircumference(yaricap) {
+    const piSayisi = 3.14
+    let cevre = 2*piSayisi*yaricap
+    console.log(`Yarıçapı ${yaricap} Olan Dairenin Çevresi: ${cevre}`)
+}
