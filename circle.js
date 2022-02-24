@@ -17,3 +17,6 @@ function circleCircumference(yaricap) {
     let cevre = 2*piSayisi*yaricap
     console.log(`Yarıçapı ${yaricap} Olan Dairenin Çevresi: ${cevre}`)
 }
+
+//circle.js dosyasındaki fonksiyonlara diğer dosyaların da-index.js- erişmeleri için expor edilme işlemi
+module.exports = {circleArea, circleCircumference}
