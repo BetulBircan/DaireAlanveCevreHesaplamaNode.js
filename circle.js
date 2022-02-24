@@ -4,3 +4,9 @@ module.exports yöntemi ile fonksiyonları oluştururken export ediniz.
 require ve object destructing kullanarak index.js dosyasında yarıçap (r) 5 olacak şekilde ekran çıktısını alınız.
 */
 
+//Dairenin Alanı Hesaplaması İçin Oluşturulan Fonksiyon
+function circleArea(yaricap) {
+    const piSayisi = 3.14
+    let alan = piSayisi*yaricap*yaricap
+    console.log(`Yarıçapı ${yaricap} Olan Dairenin Alanı: ${alan}`)
+}
